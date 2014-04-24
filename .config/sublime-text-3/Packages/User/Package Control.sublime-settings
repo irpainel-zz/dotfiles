@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"ColorPicker",
+		"Comment-Snippets",
+		"CSScomb JS",
+		"Doctrine Snippets",
+		"DoxyDoc",
+		"E-Mail",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Javascript Beautify",
+		"JavaScript Snippets",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Local History",
+		"Pandoc",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP-Twig",
+		"Phpcs",
+		"PHPUnit",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"Twig"
+	]
+}

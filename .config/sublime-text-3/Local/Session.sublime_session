@@ -1,0 +1,1409 @@
+{
+	"folder_history":
+	[
+		"/home/iury/Dropbox/projects/personal",
+		"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos",
+		"/home/iury/Dropbox/projects/habibi",
+		"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller"
+	],
+	"last_version": 3059,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 879.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dados",
+						"dados"
+					],
+					[
+						"retu",
+						"return"
+					],
+					[
+						"fec",
+						"fechaArquivo"
+					],
+					[
+						"ab",
+						"abreArquivo"
+					],
+					[
+						"j",
+						"jsondata"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"prop",
+						"property_exists()"
+					],
+					[
+						"exists",
+						"property_exists"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"googl",
+						"googleapi"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"po",
+						"positionimg"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"to",
+						"top"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"bo",
+						"bolder"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"mag",
+						"margin-right"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"bol",
+						"bolder"
+					],
+					[
+						"rob",
+						"Roboto-Bold.ttf"
+					],
+					[
+						"ho",
+						"Homestead-Display.ttf"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"page",
+						"page"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 292.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"Color picker"
+					],
+					[
+						"co",
+						"Color picker"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"app/console route:debug",
+					"app/console route:debug | grep api",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/iury/Dropbox/projects/personal/app/config/security.yml",
+				"/home/iury/Dropbox/projects/personal/css/custombootstrap.css",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/validation.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/FooterController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/SecurityController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Security/login.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AdminController.php",
+				"/home/iury/Dropbox/projects/personal/app/AppKernel.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Navigation/navibar.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/routing.yml",
+				"/home/iury/Dropbox/projects/personal/app_dev.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AboutController.php",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/exercicio1/pessoa.txt",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/main.cpp",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/Pessoa.h",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/Pessoa.cpp",
+				"/home/iury/Dropbox/projects/fem_unicamp/Projeto/algGenetico.cpp",
+				"/home/iury/Dropbox/projects/fem_unicamp/Projeto/faseDois.cpp",
+				"/home/iury/Dropbox/projects/personal/app/config/routing_dev.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/ContactController.php",
+				"/home/iury/Dropbox/projects/personal/app/config/parameters.yml",
+				"/home/iury/Dropbox/projects/personal/app.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Contact/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/GapiController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Form/Type/ContactType.php",
+				"/home/iury/Dropbox/projects/personal/app/config/config_dev.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Form/fields.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Contact/contact.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/About/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/IndexController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Footer/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/app/Resources/views/base.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Index/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/googleapi.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/services.yml",
+				"/home/iury/Dropbox/projects/personal/composer.json",
+				"/home/iury/Dropbox/projects/personal/app/config/config.yml",
+				"/home/iury/Dropbox/projects/personal/js/js.js",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Item.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/NavigationController.php",
+				"/home/iury/Dropbox/projects/personal/js/controller.js",
+				"/home/iury/Dropbox/projects/personal/bower_components/bootstrap/less/variables.less",
+				"/home/iury/Dropbox/projects/personal/bower_components/bootstrap/less/media.less",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Pages.php",
+				"/home/iury/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/iury/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/schema.xml",
+				"/home/iury/Dropbox/projects/personal/web/app.php",
+				"/home/iury/Dropbox/projects/personal/.htaccess",
+				"/home/iury/Dropbox/projects/personal/src/Iury/IuryBundle/Controller/PageController.php",
+				"/home/iury/Dropbox/projects/personal/app/config/routing.yml",
+				"/home/iury/fancntrl.c",
+				"/home/iury/Dropbox/projects/personal/src/Iury/IuryBundle/Resources/config/routes.yml",
+				"/home/iury/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/iury/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/",
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/Console/",
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/Console/Input",
+					"/home/iury/Dropbox/projects/personal/",
+					"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/About",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"1",
+					"dev",
+					"clear",
+					"cache",
+					"clear",
+					"cache",
+					"1",
+					"string",
+					"function ",
+					"}\n",
+					"active",
+					"+d",
+					"welcome",
+					"sfcontroller",
+					"new",
+					"Nelmio",
+					"\n        ",
+					"(),\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 263.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1598.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dados",
+						"dados"
+					],
+					[
+						"retu",
+						"return"
+					],
+					[
+						"fec",
+						"fechaArquivo"
+					],
+					[
+						"ab",
+						"abreArquivo"
+					],
+					[
+						"j",
+						"jsondata"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"prop",
+						"property_exists()"
+					],
+					[
+						"exists",
+						"property_exists"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"paddi",
+						"padding-top"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"googl",
+						"googleapi"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"pa",
+						"padding-left"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"po",
+						"positionimg"
+					],
+					[
+						"padding",
+						"padding-bottom"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"to",
+						"top"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"bo",
+						"bolder"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"mag",
+						"margin-right"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"bol",
+						"bolder"
+					],
+					[
+						"rob",
+						"Roboto-Bold.ttf"
+					],
+					[
+						"ho",
+						"Homestead-Display.ttf"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"page",
+						"page"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/add.html.twig",
+					"settings":
+					{
+						"buffer_size": 584,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/edit.html.twig",
+					"settings":
+					{
+						"buffer_size": 750,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Form/Type/ProjectType.php",
+					"settings":
+					{
+						"buffer_size": 1244,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AdminController.php",
+					"settings":
+					{
+						"buffer_size": 2257,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/routing.yml",
+					"settings":
+					{
+						"buffer_size": 820,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Item.php",
+					"settings":
+					{
+						"buffer_size": 5019,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Index/index.html.twig",
+					"settings":
+					{
+						"buffer_size": 1093,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 292.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"Color picker"
+					],
+					[
+						"co",
+						"Color picker"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"app/console route:debug",
+					"app/console route:debug | grep api",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Index/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/app/Resources/views/base.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/routing.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Item.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/IndexController.php",
+				"/home/iury/Dropbox/projects/personal/app/config/security.yml",
+				"/home/iury/Dropbox/projects/personal/css/custombootstrap.css",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/validation.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/FooterController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/SecurityController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Security/login.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AdminController.php",
+				"/home/iury/Dropbox/projects/personal/app/AppKernel.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Navigation/navibar.html.twig",
+				"/home/iury/Dropbox/projects/personal/app_dev.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AboutController.php",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/exercicio1/pessoa.txt",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/main.cpp",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/Pessoa.h",
+				"/home/iury/Dropbox/UNICAMP PESSOAL/Semestre 5/EstArquivos/Pessoa.cpp",
+				"/home/iury/Dropbox/projects/fem_unicamp/Projeto/algGenetico.cpp",
+				"/home/iury/Dropbox/projects/fem_unicamp/Projeto/faseDois.cpp",
+				"/home/iury/Dropbox/projects/personal/app/config/routing_dev.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/ContactController.php",
+				"/home/iury/Dropbox/projects/personal/app/config/parameters.yml",
+				"/home/iury/Dropbox/projects/personal/app.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Contact/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/GapiController.php",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Form/Type/ContactType.php",
+				"/home/iury/Dropbox/projects/personal/app/config/config_dev.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Form/fields.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Contact/contact.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/About/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Footer/index.html.twig",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/googleapi.yml",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/services.yml",
+				"/home/iury/Dropbox/projects/personal/composer.json",
+				"/home/iury/Dropbox/projects/personal/app/config/config.yml",
+				"/home/iury/Dropbox/projects/personal/js/js.js",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/NavigationController.php",
+				"/home/iury/Dropbox/projects/personal/js/controller.js",
+				"/home/iury/Dropbox/projects/personal/bower_components/bootstrap/less/variables.less",
+				"/home/iury/Dropbox/projects/personal/bower_components/bootstrap/less/media.less",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Pages.php",
+				"/home/iury/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/iury/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/schema.xml",
+				"/home/iury/Dropbox/projects/personal/web/app.php",
+				"/home/iury/Dropbox/projects/personal/.htaccess",
+				"/home/iury/Dropbox/projects/personal/src/Iury/IuryBundle/Controller/PageController.php",
+				"/home/iury/Dropbox/projects/personal/app/config/routing.yml",
+				"/home/iury/fancntrl.c",
+				"/home/iury/Dropbox/projects/personal/src/Iury/IuryBundle/Resources/config/routes.yml",
+				"/home/iury/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/iury/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/",
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/Console/",
+					"/home/iury/Dropbox/projects/personal/vendor/symfony/symfony/src/Symfony/Component/Console/Input",
+					"/home/iury/Dropbox/projects/personal/",
+					"/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/About",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"init",
+					"//$",
+					"1",
+					"dev",
+					"clear",
+					"cache",
+					"clear",
+					"cache",
+					"1",
+					"string",
+					"function ",
+					"}\n",
+					"active",
+					"+d",
+					"welcome",
+					"sfcontroller",
+					"new",
+					"Nelmio",
+					"\n        ",
+					"(),\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/iury/Dropbox/projects/personal"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/add.html.twig",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 584,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										281,
+										281
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Admin/edit.html.twig",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 750,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										697,
+										697
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Form/Type/ProjectType.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1166,
+										1166
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Controller/AdminController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2257,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1912,
+										1912
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 644.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/config/routing.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 820,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										647,
+										647
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Entity/Item.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5019,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4031,
+										4031
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2925.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/iury/Dropbox/projects/personal/src/Personal/IuryBundle/Resources/views/Index/index.html.twig",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1022,
+										1022
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,1067,19,1598,898,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 263.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
